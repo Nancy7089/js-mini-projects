@@ -2,12 +2,12 @@
 
 This repository contains small projects and exercises I'm building while learning DOM manipulation and JavaScript basics.
 
-## 📂 Projects
+## Projects
 
-- [YouTube Subscribe Button + Amazon Shipping Calculator](./youtube-subscribe-shipping)
+- [YouTube Subscribe Button + Amazon Shipping Calculator]
 - [More projects coming soon...]
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
