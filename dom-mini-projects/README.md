@@ -11,6 +11,4 @@ This repository contains small projects and exercises I'm building while learnin
 
 - HTML
 - CSS
-- JavaScript (Vanilla)
-
-Stay tuned as I explore more frontend projects!
+- JavaScript
